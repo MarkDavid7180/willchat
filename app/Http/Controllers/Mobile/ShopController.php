@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Mobile;
 
 use App\Http\Controllers\Controller;
-use EasyWeChat\Js\Js;
 use EasyWeChat\Payment\Merchant;
 use EasyWeChat\Payment\Order;
 use EasyWeChat\Payment\Payment;
